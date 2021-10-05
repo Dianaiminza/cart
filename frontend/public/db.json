@@ -1,0 +1,132 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Breathable sneakers",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/one.jpg",
+       " price": 6000
+      },
+      {
+        "id": 2,
+        "title": "Canvas",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/two.jpg",
+        "price": 5000
+      },
+      {
+        "id": 3,
+        "title": "Fila",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/three.jpg",
+        "price": 7000
+      }, {
+        "id": 4,
+        "title": "Adidas",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/four.jpg",
+        "price": 7000
+      },
+      {
+        
+        "id": 5,
+        "title": "Skechers Women Lite Memory Foam Lace-up",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/five.jpg",
+        "price": 3900
+    },
+    {
+        "id": 6,
+        "title": "Adidas Grand Court",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/six.jpg",
+        "price": 4000
+    },
+    {
+        
+        "id": 7,
+        "title": "Adidas Grand Court",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        "image": "/images/seven.jpg",
+        "price": 4000
+    },
+    {
+        
+        "id": 8,
+        "title": "Troadlop Women Air Knitted Running Shoes",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        
+        "image": "/images/eight.jpg",
+        "price": 4000
+    },
+    
+    {
+        
+        "id": 9,
+        "title": "Skechers Women Sneaker",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+      
+        "image": "/images/nine.jpg",
+        "price": 4000
+    },
+    {
+        "id": 10,
+        "title": "Women 311 V2 Sneaker",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+      
+        "image": "/images/ten.jpg",
+        "price": 2800
+    },
+    {
+        "id": 11,
+        "title": "Women Ultra Flex-Statements Sneaker",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+        
+        "image": "/images/eleven.jpg",
+        "price": 5000
+    },
+    {
+        "id": 12,
+        "title": "Nike Women Ebernon Low Sneaker",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+      
+        "image": "/images/twelve.jpg",
+        "price": 5000
+    },
+    {
+        
+        "id": 13,
+        "title": "Women Summits-Quick Getaway Sneaker",
+        "description": "Comfortable shoes",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "isFreeShipping": true,
+      
+        "image": "/images/thirteen.jpg",
+        "price": 3500
+    }
+    ]
+  }
